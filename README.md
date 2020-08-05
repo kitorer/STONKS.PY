@@ -1,0 +1,2 @@
+# STONKS.PY
+STONK
